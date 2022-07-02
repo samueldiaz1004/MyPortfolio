@@ -2802,6 +2802,14 @@ input, select, textarea {
 
 /* Icons */
 
+    .tools-icons {
+        text-align: center;
+    }
+
+    .tool {
+        margin: 20px;
+    }
+
 	ul.icons {
 		cursor: default;
 		list-style: none;
